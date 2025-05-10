@@ -82,7 +82,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/2.1.3.png)
+![image](img/2.1.3(2).png)
 
 </details>
 
