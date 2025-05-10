@@ -67,7 +67,11 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/2.1.1.png)
+
+![image](img/2.1.1.2.png)
+
+![image](img/2.1.2.png)
 
 </details>
 
@@ -78,7 +82,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/2.1.3.png)
 
 </details>
 
@@ -90,7 +94,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/2.1.4.png)
 
 </details>
 
