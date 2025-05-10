@@ -28,7 +28,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/01.png)
 
 </details>
 
@@ -39,7 +39,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/02.png)
 
 </details>
 
@@ -50,7 +50,7 @@
 <summary>Ответ</summary>
 
 
-![image](img/01.1.png)
+![image](img/03.png)
 
 </details>
 
